@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(230, 243, 226);
+}
+
+button {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.white {
+    background-color: white;
+}
+
+.text-verificare {
+    font-size: 50px;
+    color: blue;
+}
+
+.btnVer {
+    width: 400px;
+    height: 60px;
+    font-size: 35px;
+}
+
+.alege-steaguri {
+    width: 250px;
+    height: 80px;
+}
+
+.alege_steag {
+    height: 60px;
+    width: 100px;  
+    margin-right: 25px;
+    float: left;
+}
+
+.alege_steag:hover {
+    cursor: pointer;
+    }
+
+.vertical {
+    width: 30px;
+    height: 60px;
+    border: solid 1px black;
+    float: left;
+}
+
+.vertical.border_right {
+    border-right: 0px;
+}
+
+.vertical.border_left {
+    border-left: 0px;
+}
+
+.orizontal {
+   width: 99px;
+   height: 19px;
+   border: solid 1px black;
+   
+}
+
+.orizontal.border_bottom {
+    border-bottom: 0px;
+}
+
+.orizontal.border_top {
+    border-top: 0px;
+}
+
+
+.steag-box {
+    width: 186px;
+    height: 100px;
+    border: solid 1px black;
+}
+
+.vertical_unu {
+    width: 61px;
+    height: 100px;
+    border-right: solid 1px black;
+    float: left;    
+}
+
+.vertical_doi {
+    width: 62px;
+    height: 100px;
+    border-right: solid 1px black;
+    float: left;
+}
+
+.vertical_trei {
+    width: 61px;
+    height: 100px;
+    float: left;
+}
+
+.orizontal_unu {
+    width: 186px;
+    height: 33px;
+    border-bottom: solid 1px black;
+}
+
+.orizontal_doi {
+    width: 186px;
+    height: 33px;
+    border-bottom: solid 1px black;
+}
+
+.orizontal_trei {
+    width: 186px;
+    height: 33px;
+    border-bottom: solid 1px black;
+}
